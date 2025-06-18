@@ -68,7 +68,7 @@ const About = () => {
                                     onClick={(e) => {
                                         e.preventDefault();
                                         window.open(
-                                            '/assets/pdf/resume_english.pdf',
+                                            'assets/pdf/resume_english.pdf',
                                             '_blank'
                                         );
                                     }}

@@ -53,7 +53,7 @@ const Main = () => {
                             <div className="logo">
                                 <Link className="navbar-brand" to="/">
                                     <img
-                                        src="/assets/img/logo/dark.png"
+                                        src="assets/img/logo/dark.png"
                                         alt="brand"
                                     />
                                 </Link>
@@ -65,7 +65,7 @@ const Main = () => {
                                     <Tab>
                                         <img
                                             className="svg"
-                                            src="/assets/img/svg/home-run.svg"
+                                            src="assets/img/svg/home-run.svg"
                                             alt="homerun"
                                         />
                                         <span className="menu_content">
@@ -75,7 +75,7 @@ const Main = () => {
                                     <Tab>
                                         <img
                                             className="svg"
-                                            src="/assets/img/svg/avatar.svg"
+                                            src="assets/img/svg/avatar.svg"
                                             alt="avatar"
                                         />
                                         <span className="menu_content">
@@ -85,7 +85,7 @@ const Main = () => {
                                     <Tab>
                                         <img
                                             className="svg"
-                                            src="/assets/img/svg/briefcase.svg"
+                                            src="assets/img/svg/briefcase.svg"
                                             alt="briefcase"
                                         />
                                         <span className="menu_content">
@@ -95,7 +95,7 @@ const Main = () => {
                                     <Tab>
                                         <img
                                             className="svg"
-                                            src="/assets/img/svg/paper.svg"
+                                            src="assets/img/svg/paper.svg"
                                             alt="paper"
                                         />
                                         <span className="menu_content">
